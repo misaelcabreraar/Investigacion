@@ -1,5 +1,5 @@
 # Investigacion
-Investigacion
+
 
 Herencia: Es la relación entre una clase general y otra clase más específica
 
@@ -9,6 +9,6 @@ Ensombrecimiento: Ocurre cuando una variable es declarada dentro de cierto alcan
 
 Ciclo de vida de:
 
-Variables de clase
-Variables de método
-Variables estáticas: Suelen existir para el resto del programa
+Variables de clase: Su existencia dependerá de cuando la variable sea llamada.
+Variables de método: Solo hasta que su llamada finalice.
+Variables estáticas: Suelen existir para el resto del programa.
